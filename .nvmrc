@@ -1,1 +1,2 @@
-22.13.0
+nvm install      # installs correct Node version from .nvmrc
+nvm use
